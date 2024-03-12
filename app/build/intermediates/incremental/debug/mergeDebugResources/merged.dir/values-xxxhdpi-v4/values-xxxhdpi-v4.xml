@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="float" name="wine_glass_max_percent" type="dimen">0.75</item>
+    <item format="float" name="wine_glass_min_percent" type="dimen">0.25</item>
+    <dimen name="wine_glass_padding">10dp</dimen>
+</resources>

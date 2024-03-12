@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">When Wine</string>
+    <string name="upsell_content">Om toekomstige dagen te zien, koop dan de data zoals te zien op het instellingenscherm - klik hier</string>
+    <string name="no">NEE</string>
+    <string name="yes">JA</string>
+    <string name="good_for_wine_header">Goede wijndag?</string>
+    <string name="upsell_title">Koop alstublieft de volledige editie</string>
+    <string name="week">WEEK</string>
+    <string name="day">DAG</string>
+    <string name="choose_time_zone">Kies tijdzone</string>
+    <string name="_24_hour_time">24-uurs tijdsaanduiding</string>
+    <string name="purchase">AANKOOP</string>
+    <string name="settings">Instellingen</string>
+    <string name="timezone_title">Kies tijdzone</string>
+    <string name="use_system_timezone">Gebruik de tijdzone van het systeem</string>
+
+    <string-array name="twelve_hour_labels">
+        <item>MIDDERNACHT</item>
+        <item>3AM</item>
+        <item>6AM</item>
+        <item>9AM</item>
+        <item>MIDDAG</item>
+        <item>3PM</item>
+        <item>6PM</item>
+        <item>9PM</item>
+    </string-array>
+
+    <string name="buy_year_text">Koop de data voor %1$d</string>
+    <string name="about_app"><![CDATA[
+<h1>Hoe werkt het?</h1>
+
+        <h2>Hoe deze app te gebruiken</h2>
+
+        <p>The When Wine Tastes Best app vertelt je wat de beste- en minst goede tijden zijn om wijn te drinken. Als de theorie achter deze informatie voor jou niet belangrijk is, en je alleen maar wilt weten wanneer je een van je beste flessen wijn kan open maken, ga dan naar de dag, week of maand om hier de juiste tijd te vinden. Het is per uur aangegeven of het een goede tijd (rood) of niet zo’n goede tijd (bruin) is om de wijn te drinken.</p>
+
+        <h3>Aanpassing voor tijdzones</h3>
+
+        <p>Klik op de icoon van instellingen (links boven op het hoofdscherm) om de tijdzone voor je locatie in te stellen en te kiezen voor een 24- of 12 tijdsaanduiding. (De app zal in eerste instantie de standaard tijdzone vanuit je mobiele apparaat gebruiken.) De datum- en tijdsinformatie om het beste de wijn te drinken zal automatisch worden aangepast naar jouw tijdszone – er zijn geen omrekeningen nodig.</p>
+
+        <h2>De theorie achter de app</h2>
+        <p>Beïnvloed de dag waarop je de wijn drinkt de smaak en expressie van de wijn? Al meerdere jaren zijn de grote supermarktketens in de UK hiervan overtuigd en organiseren ze hun wijnproeverijen alleen op dagen die When Wine Tastes Best aangeeft als dagen waarop de wijnen zich ten volle zullen tonen.</p>
+
+        <p>Het zit hem allemaal in de beweging van de maan die al het leven op aarde beïnvloed, inclusief hoe alles groeit. Als we wijn in de fles als een levend organisme beschouwen welke gedurende de tijd oudert, dan is het niet raar dat dit ook in overeenstemming met het ritme van de maan gebeurt.</p>
+
+        <p>De maan passeert twaalf sterrenstelsels – Schorpioen, Maagd, Kreeft etc – en zijn positie op elk tijdstip binnen deze stelsels bepaald of een wijn op dat moment goed of wat minder smaakt. Er zijn vier tijdscategorieën: fruitdagen, bloemdagen, bladdagen en worteldagen. Fruit en bloem zijn goed; blad en wortel kunnen beter vermeden worden als je optimaal van je fles wijn wilt genieten</p>
+
+        <h2>Ik wil graag meer informatie</h2>
+        <p>De informatie in de app is gebaseerd op meer dan 55 jaar research van Maria Thun (ze overleed in 2012). Ze leefde in Midden-Duitsland en voor meer dan vijftig jaar was ze verantwoordelijk voor het maken van de jaarlijkse biodynamische zaaikalender, die nu door haar zoon wordt samengesteld. De details van de kalender zijn uitgewerkt aan de hand van het in overweging nemen van de zon- en maanstanden, sterrenstelsels en de beweging van de planeten. Deze kalender wordt jaarlijks wereldwijd gebruikt door mensen die aan de hand hiervan besluiten wanneer te zaaien, planten en fruit te oogsten (inclusief druiven voor het maken van biodynamische wijn), groenten, bloemen en andere gewassen maar ook bijenhouders en mensen die boter en kaas maken – alles wat onder invloed staat van de bewegingen van de maan.</p>
+
+        <p>Het resultaat van het zaaien en oogsten van verschillende planten op verschillende tijden is gedurende de jaren goed gedocumenteerd en laat zien dat het gebruik van biodynamische technieken in tuinieren en landbouw een beduidend effect hebben op de kwaliteit van fruit, groenten en bloemen; en niet alleen op de kwaliteit, maar ook op hoe lang ze na het oogsten opgeslagen kunnen worden en goed blijven.</p>
+
+        <p>Alhoewel deze app gaat over het drinken van wijn en niet het zaaien en oogsten zijn de details van de kalender voor beiden hetzelfde (lees verder om erachter te komen waarom).</p>
+
+        <h3>Sterrenstelsels en de beweging van de maan</h3>
+        <p>Er zijn twaalf sterrenstels in onze hemel waardoor de zon en maan passeren. Wij kennen deze sterrenstelsels als de dierenriem – Schorpioen, Kreeft, Ram etc. – maar in de context van deze gids zullen deze namen gebruikt worden voor de identificatie van sterrenstelsels in tegenstelling tot de tekens van de dierenriem zoals gebruikt in horoscopen.</p>
+
+        <p>De twaalf sterrenstelsels zijn gegroepeerd in vier verschillende typen, welke overeenkomen met de vier verschillende typen dagen in deze gids:</p>
+
+        <p>
+        <ul>
+            <li>Maagd, Steenbok, Stier – Wortel</li>
+            <li>Weegschaal, Waterman, Tweelingen – Bloem</li>
+            <li>Schorpioen, Vissen, Kreeft – Blad</li>
+            <li>Boogschutter, Ram, Leeuw – Fruit<li>
+        </ul>
+        </p>
+
+        <p>Iedere maand beweegt de maan door elk stelsel (het duurt ongeveer 27,5 dagen voordat de maan een complete cyclus voltooid heeft). Op het moment dat de maan in een specifiek stelsel terecht komt zal dat type dag starten. Bijvoorbeeld, als de maan zich in Weegschaal begeeft om 11:00 uur dan zal het vanaf 11:00 uur een bloemdag zijn.</p>
+
+        <p>Soms is het zo dat het een periode over het algemeen ongunstig is voor alle aspecten van het biodynamisch zaaien en oogsten of het drinken van wijn. Dit kan komen door de invloed van andere planeten of een verduistering. De invloed van andere hemellichamen kan ook een effect hebben op de exacte start- en eindtijd van een type dag, de samenhang met de maanstelsels is dan ook niet altijd helemaal gelijk.</p>
+
+        <p>Als je geïnteresseerd bent in de astronomische aspecten van deze app, klik dan op de volgende link om een exemplaar van Maria Thun’s Zaaikalender te kopen. <a href="http://www.florisbooks.co.uk/mariathun.html"><em>Maria Thun’s Zaaikalender</em></a>.</p>
+
+        <h3>Wanneer is het de beste tijd om wijn te drinken?</h3>
+        <p>Van de vier typen dagen worden de fruit- en bloemdagen als het beste beschouwd om wijn te drinken. Het is leuk om te weten dat deze aanbeveling niet komt van Maria Thun zelf. Het is de wijnindustrie die heeft ontdekt dat veel wijnen op z’n best zijn als ze gedronken worden op fruit- en bloemdagen. Dit gaat zelfs zover dat twee grote supermarktketens in de UK alleen nog maar wijnproeverijen voor critici organiseren op fruit- en bloemdagen. De tendens is zichtbaar dat dit geldt voor alle wijnen en niet slechts voor wijnen gemaakt op biodynamische of biologische wijze (wat een veelvoorkomend misverstand is). </p>
+
+        <p>Er wordt echter gesuggereerd dat wijnen met een leeftijd van minimaal 4-5 jaar beter gedronken kunnen worden op bladdagen. Voor zover wij weten is er geen formeel onderzoek gedaan naar dit fenomeen en is er nog genoeg werk te verrichten en meer details te ontdekken. In de tussentijd staat hieronder weergegeven wat sommige van de top wijnexperts hierover zeggen:</p>
+
+        <p>“Wij probeerden acht wijnen op dinsdag, wat een bladdag was en dezelfde wijnen op donderdag wet een fruitdag was. En het was gelijk duidelijk. Het was niet dat de wijn op dinsdag slecht smaakte maar de wijn gaf meer expressie op donderdag. De wijn was meer uitgesproken en in balans. Het was alsof de hemel open ging, de wolken zich scheiden en de wijn zichzelf liet zien. David Motion, wijnhandelaar bij The Winery in Maida Vale, London</p>
+
+        <p>“Voor de proeverij was ik niet overtuigd maar het verschil tussen de dagen was duidelijk. Ik was stomverbaasd.” Jo Ahearne, wijnmaker voor Marks &amp; Spencer</p>
+        <p>“Ik zie het niet elke maand maar elke dag. De sleutel zit hem in het werken met de ritmes.” Benjamin Leroux, wijnmaker bij Domaine Comte Armand in Pommard</p>
+
+        <p>Maar neem het niet zomaar van deze mensen aan. Ieders smaak is anders en veel zaken kunnen invloed hebben hoe een wijn smaakt, inclusief je humeur en omstandigheden: een glas wijn op een mooie zomeravond in de tuin na een dag hard werken zal anders smaken dan wanneer dit glas snel wordt genuttigd terwijl de kinderen aan het rondrennen zijn en je zelf moe en gestrest bent. Probeer het en kijk hoe het voor jou werkt. Als je een mooi bedrag besteed aan een goede fles wijn dan wil je hier ten slotte ook optimaal van kunnen genieten.</p>
+    ]]></string>
+</resources>

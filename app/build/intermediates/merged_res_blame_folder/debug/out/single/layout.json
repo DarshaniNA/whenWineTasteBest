@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-28:/layout/date_header.xml",
+        "source": "uk.co.florisbooks.whenwinetastesbest.app-main-31:/layout/date_header.xml"
+    },
+    {
+        "merged": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-28:/layout/fragment_about.xml",
+        "source": "uk.co.florisbooks.whenwinetastesbest.app-main-31:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-28:/layout/timezone_list_item.xml",
+        "source": "uk.co.florisbooks.whenwinetastesbest.app-main-31:/layout/timezone_list_item.xml"
+    },
+    {
+        "merged": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-28:/layout/activity_timezone.xml",
+        "source": "uk.co.florisbooks.whenwinetastesbest.app-main-31:/layout/activity_timezone.xml"
+    },
+    {
+        "merged": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "uk.co.florisbooks.whenwinetastesbest.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-28:/layout/activity_settings.xml",
+        "source": "uk.co.florisbooks.whenwinetastesbest.app-main-31:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-28:/layout/activity_about.xml",
+        "source": "uk.co.florisbooks.whenwinetastesbest.app-main-31:/layout/activity_about.xml"
+    },
+    {
+        "merged": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-28:/layout/product_item.xml",
+        "source": "uk.co.florisbooks.whenwinetastesbest.app-main-31:/layout/product_item.xml"
+    }
+]

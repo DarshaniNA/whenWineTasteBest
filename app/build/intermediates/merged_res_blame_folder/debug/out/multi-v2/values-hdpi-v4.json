@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-27:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/darshaniabeywickrama/.gradle/caches/transforms-3/30ed3996677e5e812ea631e5688aedd7/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "9",
+                        "endColumns": "13",
+                        "endOffsets": "536"
+                    }
+                },
+                {
+                    "source": "/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/res/values-hdpi/dimens.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "135,55,215",
+                        "endColumns": "79,79,48",
+                        "endOffsets": "210,130,259"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,135,215",
+                        "endColumns": "79,79,48",
+                        "endOffsets": "130,210,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-27:/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/res/values-xxxhdpi/dimens.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "135,55,215",
+                        "endColumns": "79,79,49",
+                        "endOffsets": "210,130,260"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,135,215",
+                        "endColumns": "79,79,49",
+                        "endOffsets": "130,210,260"
+                    }
+                }
+            ]
+        }
+    ]
+}

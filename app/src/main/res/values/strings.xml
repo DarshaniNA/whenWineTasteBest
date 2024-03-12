@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">When Wine</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="day">DAY</string>
+    <string name="week">WEEK</string>
+
+    <string name="settings">Settings</string>
+
+    <string-array name="twelve_hour_labels">
+        <item>MIDNIGHT</item>
+        <item>3AM</item>
+        <item>6AM</item>
+        <item>9AM</item>
+        <item>NOON</item>
+        <item>3PM</item>
+        <item>6PM</item>
+        <item>9PM</item>
+    </string-array>
+    
+    <string name="buy_year_text">Buy data for %1$d</string>
+
+    <string name="about_app"><![CDATA[
+<h1>How It All Works</h1>
+
+		<h2>How to use this app</h2>
+
+		<p>The When Wine Tastes Best app tells you the most and least favourable times for drinking wine. If you don’t care about the theory, and just want to know when to open your best bottle of wine, simply browse by day, week or month to find the right day, then see, hour by hour, whether it’s a good time (red) or not good time (brown) to drink wine.</p>
+		<h3>Adjust for time zones</h3>
+		<p>Click on the Settings icon (top left of the main screens) to set the time zone for your location, and choose between 24-hour or 12-hour time. (The app will pick up the time zone of your device by default.) The date and time information for when to drink wine then automatically adjusts to your time zone – no calculations needed.</p>
+
+		<h2>The theory behind the app</h2>
+		<p>Does the day on which you choose to drink a bottle of wine affect its flavour? For some years, major supermarkets in the UK have thought so, and only hold their tastings for wine critics on days which, according to When Wine Tastes Best, the wines will be at their best.</p>
+
+		<p>It’s all about the movement of the moon, which influences all living things on earth, including the ways things grow. If we consider the wine in a bottle as a living organism, which matures over time, then it makes sense that it, too, should respond to the rhythms of the moon.</p>
+
+		<p>The moon passes through the twelve star constellations – Scorpio, Virgo, Cancer etc – and its position at any one time determines whether it’s a good or bad time for wine. There are four categories of time: fruit days, flower days, leaf days and root days. Fruit and flower are good; leaf and root are to be avoided if you want to get the most out of your bottle.</p>
+
+		<h2>I’d like more detail, please</h2>
+		<p>The information in this app is based on over 55 years of research by a woman called Maria Thun (who died in 2012). She lived in central Germany and for over fifty years produced an annual <a href="http://www.florisbooks.co.uk/mariathun.html"><em>Biodynamic Sowing and Planting Calendar</em></a>, now produced by her son. The details of the calendar are worked out by considering all aspects of lunar cycles, solar cycles, star constellations and the movement of other planets. It is used every year by people all over the world to decide when to sow, plant and harvest fruit (including grapes for making biodynamic wine), vegetables, flowers and crops, as well as by beekeepers and people who make butter and cheese – all of which are influenced by the movement of the moon.</p>
+
+		<p>The results of planting and harvesting different plants at particular times have been well-documented over the years, and it has been shown that using biodynamic techniques in gardening and agriculture can have a significant effect on the quality of fruit, vegetables and flowers, and on how well they store and last.</p>
+
+		<p>Although this app is about drinking wine, not planting and harvesting, the calendar details are the same for both (read on to find out why).</p>
+
+		<h3>Star constellations and the movement of the moon</h3>
+		<p>There are twelve star constellations in our skies through which the moon, the sun and all the planets pass. We know them as the zodiac – Scorpio, Cancer, Aries etc. – but in the context of this guide, these names are used to indicate the physical star constellations rather than the astrological signs used in horoscopes. </p>
+
+		<p>The twelve constellations are grouped in four different types, which correspond to the four types of ‘days’ in this guide:</p>
+
+		<p>
+			<ul>
+				<li>Virgo, Capricorn, Taurus – Root</li>
+				<li>Libra, Aquarius, Gemini	– Flower</li>
+				<li>Scorpio, Pisces, Cancer	– Leaf</li>
+				<li>Sagittarius, Aries, Leo	– Fruit<li>
+			</ul>
+		</p>
+
+		<p>Every month, the moon moves through each constellation in turn (in fact, it takes about 27.5 days for the moon to complete one cycle). As the moon moves into a particular constellation, that type of ‘day’ takes over. For example, if the moon moves into Libra at 11 am, from 11 am onwards is normally considered to be a ‘flower day’.</p>
+
+		<p>Sometimes you also get periods which are ‘generally unfavourable’ for any aspect of biodynamic planting or harvesting, or drinking wine. This is normally due to other planetary influences coming in play, or an eclipse. The influence of other heavenly bodies can also affect the exact start and end time of a type of ‘day’, so there’s not always an exact correlation with the lunar constellations.</p>
+
+		<p>If you’re particularly interested in the astronomical aspects of this app, get hold of a copy of Maria Thun’s <a href="http://www.florisbooks.co.uk/mariathun.html"><em>Biodynamic Sowing and Planting Calendar</em></a>.</p>
+
+		<h3>So, when should I drink wine?</h3>
+		<p>Of the four types of days, fruit and flower days are considered best for drinking wine. It’s interesting to realise that this recommendation doesn’t come from Maria Thun. It’s actually the wine industry itself that discovered the tendency for many wines to be at their best on fruit and flower days – so much so, that at least two major supermarket chains in the UK only hold wine tastings for critics on fruit and flower days. The tendency seems to apply to conventionally-grown and processed wine and not just to biodynamic or organic wine (a common misunderstanding). </p>
+
+		<p>There has, however, been a suggestion that some older wines, perhaps those at least 4–5 years old, may benefit from being drunk on leaf days. There hasn’t been any formal research, as far as we’re aware, on the phenomenon, and there’s clearly more work to do, and more detail to be discovered. In the meantime, however, here’s what some of the top wine experts say:</p>
+
+		<p>“We tried eight wines on Tuesday, which was a leaf day, and then the same wines again on Thursday, which was a fruit day. And it was totally conclusive. It wasn’t that the wine tasted bad on the Tuesday but it was much more expressive on the Thursday. It was more exuberant and on-song. It was like the heavens opened, the clouds parted and the wine just expressed itself.”
+ David Motion, wine merchant at The Winery in Maida Vale, London</p>
+
+		<p>“Before the tasting, I was really unconvinced, but the difference between the days was so obvious I was completely blown away.”
+ Jo Ahearne, winemaker for Marks &amp; Spencer</p>
+		<p>“I don’t just see it every month. I see it every day. The key is to work with these rhythms.”
+ Benjamin Leroux, winemaker at Domaine Comte Armand in Pommard</p>
+
+		<p>Don’t just take their word for it. Every palate is different, and lots of things can affect how good wine tastes, including your mood and circumstances: a glass on a patio on a warm summer evening, when you’ve had a good day at work, can taste hugely different from a rushed gulp when the kids are shouting and you’re tired and stressed. Try it, and see if it seems to work for you. After all, if you’ve spent good money on a decent bottle of wine, you deserve to get the best from it.</p>
+    ]]></string>
+
+    <string name="timezone_title">Choose timezone</string>
+    <string name="upsell_title">Please purchase the full edition</string>
+    <string name="upsell_content">If you would like to know when it is best to drink wine in the future you can purchase the full edition giving you all the data from now up until the end of the year.</string>
+    <string name="good_for_wine_header">Good Wine Day?</string>
+    <string name="purchase">PURCHASE</string>
+    <string name="_24_hour_time">24 Hour Time</string>
+    <string name="use_system_timezone">Use system timezone</string>
+    <string name="choose_time_zone">Choose time zone</string>
+</resources>

@@ -1,0 +1,174 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uk.co.florisbooks.whenwinetastesbest.debug"
+4    android:versionCode="27"
+5    android:versionName="1.5.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="com.android.vending.BILLING" />
+11-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+14        android:name="uk.co.florisbooks.whenwinetastesbest.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="uk.co.florisbooks.whenwinetastesbest.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+18
+19    <queries>
+19-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:12:5-16:15
+20        <intent>
+20-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:13:9-15:18
+21            <action android:name="com.android.vending.billing.InAppBillingService.BIND" />
+21-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:14:13-91
+21-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:14:21-88
+22        </intent>
+23    </queries> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+24    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+25-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:24:22-76
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+26-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:25:22-64
+27
+28    <application
+28-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:7:5-36:19
+29        android:name="uk.co.florisbooks.whenwinetastesbest.WineApplication"
+29-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:8:9-40
+30        android:allowBackup="true"
+30-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:9:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+32        android:debuggable="true"
+33        android:icon="@mipmap/ic_launcher"
+33-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:10:9-43
+34        android:label="@string/app_name"
+34-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:11:9-41
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:12:9-54
+36        android:supportsRtl="true"
+36-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:13:9-35
+37        android:testOnly="true"
+38        android:theme="@style/AppTheme" >
+38-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:14:9-40
+39        <activity
+39-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:15:9-24:20
+40            android:name="uk.co.florisbooks.whenwinetastesbest.MainActivity"
+40-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:16:13-41
+41            android:exported="true"
+41-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:18:13-36
+42            android:screenOrientation="portrait" >
+42-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:17:13-49
+43            <intent-filter>
+43-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:19:13-23:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:20:17-69
+44-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:20:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:22:17-77
+46-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:22:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:26:9-28:52
+50            android:name="uk.co.florisbooks.whenwinetastesbest.about.AboutActivity"
+50-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:27:13-48
+51            android:screenOrientation="portrait" />
+51-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:28:13-49
+52        <activity
+52-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:30:9-32:52
+53            android:name="uk.co.florisbooks.whenwinetastesbest.settings.SettingsActivity"
+53-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:31:13-54
+54            android:screenOrientation="portrait" />
+54-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:32:13-49
+55        <activity
+55-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:34:9-35:38
+56            android:name="uk.co.florisbooks.whenwinetastesbest.settings.TimezoneActivity"
+56-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:34:19-60
+57            android:exported="true" />
+57-->/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:35:13-36
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+61            android:authorities="uk.co.florisbooks.whenwinetastesbest.debug.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+69        </provider>
+70
+71        <meta-data
+71-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:19:9-21:37
+72            android:name="com.google.android.play.billingclient.version"
+72-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:20:13-73
+73            android:value="6.0.1" />
+73-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:21:13-34
+74
+75        <activity
+75-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:23:9-27:75
+76            android:name="com.android.billingclient.api.ProxyBillingActivity"
+76-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:24:13-78
+77            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+77-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:25:13-96
+78            android:exported="false"
+78-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:26:13-37
+79            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+79-->[com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:27:13-72
+80
+81        <service
+81-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+82            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+82-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+83            android:exported="false" >
+83-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+84            <meta-data
+84-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+85                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+85-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+86                android:value="cct" />
+86-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+87        </service>
+88        <service
+88-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+89            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+89-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+90            android:exported="false"
+90-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+91            android:permission="android.permission.BIND_JOB_SERVICE" >
+91-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+92        </service>
+93
+94        <receiver
+94-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+95            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+95-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+96            android:exported="false" />
+96-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+97    </application>
+98
+99</manifest>

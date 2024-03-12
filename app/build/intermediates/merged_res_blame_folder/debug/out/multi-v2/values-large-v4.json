@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "uk.co.florisbooks.whenwinetastesbest.app-mergeDebugResources-27:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/darshaniabeywickrama/.gradle/caches/transforms-3/30ed3996677e5e812ea631e5688aedd7/transformed/appcompat-1.6.1/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,742,846",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,841,957"
+                    }
+                },
+                {
+                    "source": "/Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/res/values-large/dimens.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "135,55,215",
+                        "endColumns": "79,79,49",
+                        "endOffsets": "210,130,260"
+                    },
+                    "to": {
+                        "startLines": "9,10,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "532,612,692",
+                        "endColumns": "79,79,49",
+                        "endOffsets": "607,687,737"
+                    }
+                },
+                {
+                    "source": "/Users/darshaniabeywickrama/.gradle/caches/transforms-3/9efd84f961f99db514b4cfb9e6e1f16f/transformed/material-1.9.0/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,177,311,752",
+                        "endLines": "2,3,9,15",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "172,306,747,1190"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,22",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "962,1084,1218,1659",
+                        "endLines": "14,15,21,27",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "1079,1213,1654,2097"
+                    }
+                }
+            ]
+        }
+    ]
+}

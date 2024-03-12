@@ -1,0 +1,372 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.databinding:viewbinding:7.2.2] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/91a2c103b048869b8451491ef8c1ac41/transformed/viewbinding-7.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9efd84f961f99db514b4cfb9e6e1f16f/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f067e269518beafbbc856d73c22d2ed2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/6a2803e7f5a59bad2fac3cccde6e04d6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/30ed3996677e5e812ea631e5688aedd7/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/e334385398402a75fc310acf9443ac55/transformed/hilt-android-2.44/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/32de95ca304a16f7b7812c3805fa8120/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/961b9e74c5cb8890e00d2f8a591c4528/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/41239dd54acfbeb900150e40b6a4d223/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/905b5a8a1fdfc87d73d2757930b40735/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/ab968d43c8237d6f30790a771863632a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/83e9cba4d11c5b9a425845df4070d3af/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a16c58c075709dd7c1078a064f394537/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fbce2f60342dc9251aa3d2671f5146ca/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/0a6698c9977ca319164d80343ebea698/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/b036d4937eaa90fb20507730c1ad4f39/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/43ce907184095c9a2160a2f883987631/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3fc9d7e5d42f5d4557b9d66fd586d25b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/87142442425c776f35ec09cd269f15f6/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/5b6bbfe4c48d0f4a02b039b04ccd7996/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/48693aa1befebc94fe5460a1547249aa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/092de8b50474faeb07d3fec8f3366bcb/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/54168bafa57a1b6cfdf71da4df8b1063/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3ed17a3f4040b9f4daeb4e858b5c0dd6/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/bf3e6db6c4cb138806b965876a76cdd7/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/1738a29a26153897633aaf6585e77770/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:2:1-30:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/2d7483d4e3748f7951e1c2c887b86192/transformed/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/39f9586960148389220fc2e86f499c7b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/7b03012a4cbc19e7db0955bd1edf3fb0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d4beb5d475cd107943a4b9a3bde72ad1/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/95b9ace58b97ae893684c1f986c2bbc1/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3084606a87d1e12f6f6af579f81fd9d7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/764849f6d50f87cce1b072303594aa80/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/4661c5af4eb6ec3b00078114bb7476b1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/32876f0b6657415894b851025fb95361/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f8c5df4041fde4c3df172c44f1f2febb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/5472a4da99e079a69d44b4f8946523f3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/0b2369284e9fdfbca1234489a49207f0/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/776066f26963edd2d97735eb30b0532a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/2804cc400b139ebfb07c4cf62b06758b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f69b7900a2dfae3366923f0441700d75/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/c3351a0a8b0c574752def8591472485a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/c654a9f298d9abb3333eb101c9e2c645/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:7:5-36:19
+MERGED from [com.google.android.material:material:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9efd84f961f99db514b4cfb9e6e1f16f/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9efd84f961f99db514b4cfb9e6e1f16f/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f067e269518beafbbc856d73c22d2ed2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f067e269518beafbbc856d73c22d2ed2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:18:5-28:19
+MERGED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:18:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/4661c5af4eb6ec3b00078114bb7476b1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/4661c5af4eb6ec3b00078114bb7476b1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f8c5df4041fde4c3df172c44f1f2febb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f8c5df4041fde4c3df172c44f1f2febb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:8:9-40
+activity#uk.co.florisbooks.whenwinetastesbest.MainActivity
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:17:13-49
+	android:exported
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:22:27-74
+activity#uk.co.florisbooks.whenwinetastesbest.about.AboutActivity
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:26:9-28:52
+	android:screenOrientation
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:27:13-48
+activity#uk.co.florisbooks.whenwinetastesbest.settings.SettingsActivity
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:31:13-54
+activity#uk.co.florisbooks.whenwinetastesbest.settings.TimezoneActivity
+ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:34:9-35:38
+	android:exported
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml:34:19-60
+uses-sdk
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:viewbinding:7.2.2] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/91a2c103b048869b8451491ef8c1ac41/transformed/viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.databinding:viewbinding:7.2.2] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/91a2c103b048869b8451491ef8c1ac41/transformed/viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9efd84f961f99db514b4cfb9e6e1f16f/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9efd84f961f99db514b4cfb9e6e1f16f/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f067e269518beafbbc856d73c22d2ed2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f067e269518beafbbc856d73c22d2ed2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/6a2803e7f5a59bad2fac3cccde6e04d6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/6a2803e7f5a59bad2fac3cccde6e04d6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/30ed3996677e5e812ea631e5688aedd7/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/30ed3996677e5e812ea631e5688aedd7/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/e334385398402a75fc310acf9443ac55/transformed/hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/e334385398402a75fc310acf9443ac55/transformed/hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/32de95ca304a16f7b7812c3805fa8120/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/32de95ca304a16f7b7812c3805fa8120/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/961b9e74c5cb8890e00d2f8a591c4528/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/961b9e74c5cb8890e00d2f8a591c4528/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/41239dd54acfbeb900150e40b6a4d223/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/41239dd54acfbeb900150e40b6a4d223/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/905b5a8a1fdfc87d73d2757930b40735/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/905b5a8a1fdfc87d73d2757930b40735/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/ab968d43c8237d6f30790a771863632a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/ab968d43c8237d6f30790a771863632a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/83e9cba4d11c5b9a425845df4070d3af/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/83e9cba4d11c5b9a425845df4070d3af/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a16c58c075709dd7c1078a064f394537/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a16c58c075709dd7c1078a064f394537/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fbce2f60342dc9251aa3d2671f5146ca/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fbce2f60342dc9251aa3d2671f5146ca/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/0a6698c9977ca319164d80343ebea698/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/0a6698c9977ca319164d80343ebea698/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/b036d4937eaa90fb20507730c1ad4f39/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/b036d4937eaa90fb20507730c1ad4f39/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/43ce907184095c9a2160a2f883987631/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/43ce907184095c9a2160a2f883987631/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3fc9d7e5d42f5d4557b9d66fd586d25b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3fc9d7e5d42f5d4557b9d66fd586d25b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/87142442425c776f35ec09cd269f15f6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/87142442425c776f35ec09cd269f15f6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/5b6bbfe4c48d0f4a02b039b04ccd7996/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/5b6bbfe4c48d0f4a02b039b04ccd7996/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/48693aa1befebc94fe5460a1547249aa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/48693aa1befebc94fe5460a1547249aa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/092de8b50474faeb07d3fec8f3366bcb/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/092de8b50474faeb07d3fec8f3366bcb/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/54168bafa57a1b6cfdf71da4df8b1063/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/54168bafa57a1b6cfdf71da4df8b1063/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3ed17a3f4040b9f4daeb4e858b5c0dd6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3ed17a3f4040b9f4daeb4e858b5c0dd6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/bf3e6db6c4cb138806b965876a76cdd7/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/bf3e6db6c4cb138806b965876a76cdd7/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/1738a29a26153897633aaf6585e77770/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/1738a29a26153897633aaf6585e77770/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/2d7483d4e3748f7951e1c2c887b86192/transformed/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/2d7483d4e3748f7951e1c2c887b86192/transformed/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/39f9586960148389220fc2e86f499c7b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/39f9586960148389220fc2e86f499c7b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/7b03012a4cbc19e7db0955bd1edf3fb0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/7b03012a4cbc19e7db0955bd1edf3fb0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d4beb5d475cd107943a4b9a3bde72ad1/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d4beb5d475cd107943a4b9a3bde72ad1/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/95b9ace58b97ae893684c1f986c2bbc1/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/95b9ace58b97ae893684c1f986c2bbc1/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3084606a87d1e12f6f6af579f81fd9d7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/3084606a87d1e12f6f6af579f81fd9d7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/764849f6d50f87cce1b072303594aa80/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/764849f6d50f87cce1b072303594aa80/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/4661c5af4eb6ec3b00078114bb7476b1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/4661c5af4eb6ec3b00078114bb7476b1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/32876f0b6657415894b851025fb95361/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/32876f0b6657415894b851025fb95361/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f8c5df4041fde4c3df172c44f1f2febb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f8c5df4041fde4c3df172c44f1f2febb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/5472a4da99e079a69d44b4f8946523f3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/5472a4da99e079a69d44b4f8946523f3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/0b2369284e9fdfbca1234489a49207f0/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/0b2369284e9fdfbca1234489a49207f0/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/776066f26963edd2d97735eb30b0532a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/776066f26963edd2d97735eb30b0532a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/2804cc400b139ebfb07c4cf62b06758b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/2804cc400b139ebfb07c4cf62b06758b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f69b7900a2dfae3366923f0441700d75/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/f69b7900a2dfae3366923f0441700d75/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/c3351a0a8b0c574752def8591472485a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/c3351a0a8b0c574752def8591472485a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/c654a9f298d9abb3333eb101c9e2c645/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/c654a9f298d9abb3333eb101c9e2c645/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/darshaniabeywickrama/when-wine-tastes-best-android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/4661c5af4eb6ec3b00078114bb7476b1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/4661c5af4eb6ec3b00078114bb7476b1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/a93094fa3a7c70a7fd4f9d64cc79ddb6/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#uk.co.florisbooks.whenwinetastesbest.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#uk.co.florisbooks.whenwinetastesbest.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/882277d449ffd53c670c66f549aae917/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+queries
+ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:12:5-16:15
+intent#action:name:com.android.vending.billing.InAppBillingService.BIND
+ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:13:9-15:18
+action#com.android.vending.billing.InAppBillingService.BIND
+ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:14:13-91
+	android:name
+		ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:14:21-88
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:19:9-21:37
+	android:value
+		ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:21:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:20:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:23:9-27:75
+	android:exported
+		ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:26:13-37
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:25:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:6.0.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/9213f4ff4de112e1f6d4cb4f21d25e8b/transformed/billing-6.0.1/AndroidManifest.xml:24:13-78
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/62fe5c6115e676c35b9e07b887c2237a/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:25:22-64
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/fe74d046f12ce5bf403e36225c7b9a0f/transformed/transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/darshaniabeywickrama/.gradle/caches/transforms-3/d50947bc0e0b6c5aea8cb0574ac98674/transformed/transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
